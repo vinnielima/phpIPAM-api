@@ -39,3 +39,4 @@ function ValidateToken($api_app = NULL, $api_token = NULL)
   }
  return true;
 }
+?>
