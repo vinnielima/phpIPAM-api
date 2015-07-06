@@ -63,3 +63,4 @@ if ($isIP) {
   }
 mysqli_close($data);
 print_r(json_encode($dns_data));
+?>
